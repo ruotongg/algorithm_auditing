@@ -520,3 +520,7 @@ div.ref p{
 .small img{
     width: 30%;
 }
+
+strong{
+    font-weight: 800;
+}
